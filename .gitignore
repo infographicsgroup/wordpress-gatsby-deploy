@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# Mac files
+.DS_Store
+
+# VIM files
+*.sw*
+.env
+*.bz2
